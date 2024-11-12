@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore Python cache files
+*.pyc
+
+# Ignore dependencies
+*.egg-info/
